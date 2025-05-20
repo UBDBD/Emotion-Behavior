@@ -116061,11 +116061,11 @@ p=A.a([h,s,r,B.bu,q,B.hf,A.b4R(B.nv,B.KO,A.S(new A.Q(o,new A.aPf(),n),!0,m),new 
 if(k.w==="\uae30\ud0c0(\uc9c1\uc811 \uc785\ub825)")p.push(B.a_)
 if(k.w==="\uae30\ud0c0(\uc9c1\uc811 \uc785\ub825)")p.push(A.aFK(!1,k.f,B.tT,j,j,j,j,new A.aPh()))
 p.push(B.j)
-p.push(A.a_("\ud604\uc7ac \uac10\uc815\uc758 Valence(\uae0d\uc815/\ubd80\uc815 \uc815\ub3c4)): "+B.c.aj(k.Q,1),j,j,j,j,B.M,j,j,j))
+p.push(A.a_("\ud604\uc7ac \uac10\uc815\uc758 Valence(\uae0d\uc815/\ubd80\uc815 \uc815\ub3c4): "+B.c.aj(k.Q,1),j,j,j,j,B.M,j,j,j))
 h=k.Q
 p.push(A.ib(B.w,10,j,B.c.aj(h,1),10,0,new A.aPq(k),h))
 p.push(B.j)
-p.push(A.a_("\ud604\uc7ac \uac10\uc815\uc758 Arousal(\uc5d0\ub108\uc9c0 \uc218\uc900)): "+B.c.aj(k.as,1),j,j,j,j,B.M,j,j,j))
+p.push(A.a_("\ud604\uc7ac \uac10\uc815\uc758 Arousal(\uc5d0\ub108\uc9c0 \uc218\uc900): "+B.c.aj(k.as,1),j,j,j,j,B.M,j,j,j))
 h=k.as
 p.push(A.ib(B.w,10,j,B.c.aj(h,1),10,0,new A.aPr(k),h))
 p.push(B.j)
@@ -116109,11 +116109,11 @@ p.push(A.b4R(B.nv,B.KO,A.S(new A.Q(o,new A.aPk(),n),!0,m),new A.aPl(k),h,l))
 if(k.x==="\uae30\ud0c0(\uc9c1\uc811 \uc785\ub825)")p.push(B.a_)
 if(k.x==="\uae30\ud0c0(\uc9c1\uc811 \uc785\ub825)")p.push(A.aFK(!1,k.r,B.tT,j,j,j,j,new A.aPm()))
 p.push(B.j)
-p.push(A.a_("\uc218\ud589 \ud6c4 \uac10\uc815\uc758 Valence(\uae0d\uc815/\ubd80\uc815 \uc815\ub3c4)): "+B.c.aj(k.ax,1),j,j,j,j,B.M,j,j,j))
+p.push(A.a_("\uc218\ud589 \ud6c4 \uac10\uc815\uc758 Valence(\uae0d\uc815/\ubd80\uc815 \uc815\ub3c4): "+B.c.aj(k.ax,1),j,j,j,j,B.M,j,j,j))
 h=k.ax
 p.push(A.ib(B.w,10,j,B.c.aj(h,1),10,0,new A.aPn(k),h))
 p.push(B.j)
-p.push(A.a_("\uc218\ud589 \ud6c4 \uac10\uc815\uc758 Arousal(\uc5d0\ub108\uc9c0 \uc218\uc900)): "+B.c.aj(k.ay,1),j,j,j,j,B.M,j,j,j))
+p.push(A.a_("\uc218\ud589 \ud6c4 \uac10\uc815\uc758 Arousal(\uc5d0\ub108\uc9c0 \uc218\uc900): "+B.c.aj(k.ay,1),j,j,j,j,B.M,j,j,j))
 h=k.ay
 p.push(A.ib(B.w,10,j,B.c.aj(h,1),10,0,new A.aPo(k),h))
 p.push(B.j)
